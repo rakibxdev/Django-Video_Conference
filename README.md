@@ -41,6 +41,11 @@ To configure the Zenocloud API integration, update the following settings in set
 
 Replace 'YOUR_ZENOCLOUD_API_KEY' and 'YOUR_ZENOCLOUD_API_SECRET' with your own Zenocloud API credentials into  'VideoConference\videoconference_app\templates\videocall.html'
 
+
+
+![preview img](pic/ss1.png)
+![preview img](pic/ss2.png)
+
 Contributing
 If you would like to contribute to this project, please follow these guidelines:
 
