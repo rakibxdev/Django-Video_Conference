@@ -12,7 +12,7 @@ Technologies Used
 🐍 Python: Programming language used with Django
 🌩️ Zenocloud API: Service used for video conferencing features
 🌐 HTML, CSS, JavaScript: Frontend development
-🐘 PostgreSQL: Database for storing application data
+🐘 Sqlite: Database for storing application data
 
 Getting Started
 To set up the project on your local machine, follow these steps:
